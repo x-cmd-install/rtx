@@ -1,0 +1,68 @@
+about:
+  description: dev tools, env vars, task runner
+  license: MIT
+  homepage: https://mise.jdx.dev
+  head: 12a9dcc
+  archived: false
+  latestVersion: v2026.8.14
+  collectedAt: 2026-08-30T05:44:17Z
+timeline:
+  created: 2023-01-09
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-26
+popularity:
+  star: 33221
+  watcher: 44
+  fork: 1402
+  release: 622
+  contributor: 940
+  pullRequest: 884
+  issue: 0
+language:
+  Rust: 10979185
+  Shell: 2133859
+  PowerShell: 258687
+  Lua: 42328
+  Ruby: 39123
+  Python: 24212
+  TypeScript: 6421
+  Xonsh: 5036
+  Pkl: 4922
+  Dockerfile: 4845
+  Nix: 2993
+  JavaScript: 1257
+  Batchfile: 3
+totalLine: 13502871
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 15
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-01
+    release: 46
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-04
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
