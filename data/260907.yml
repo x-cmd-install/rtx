@@ -2,37 +2,38 @@ about:
   description: "dev tools, env vars, task runner"
   license: MIT
   homepage: https://mise.jdx.dev
-  head: 5bbe516
+  head: 928e145
   archived: false
   latestVersion: "v2026.9.1"
-  collectedAt: 2026-09-07T04:37:24Z
+  collectedAt: 2026-09-07T19:48:28Z
 timeline:
   created: 2023-01-09
   lastCommit: 2026-09-07
   lastRelease: 2026-09-02
 popularity:
-  star: 33561
-  watcher: 48
-  fork: 1421
+  star: 33598
+  watcher: 49
+  fork: 1420
   release: 626
-  contributor: 949
-  pullRequest: 8162
+  contributor: 950
+  pullRequest: 8178
   issue: 0
 language:
-  Rust: 11884278
-  Shell: 2273865
-  PowerShell: 285994
+  Rust: 13006641
+  Shell: 2299186
+  PowerShell: 293506
   Ruby: 56942
   Lua: 42328
-  Python: 28540
-  TypeScript: 6529
+  Python: 30133
+  TypeScript: 6664
   Xonsh: 5036
   Pkl: 4924
   Dockerfile: 4845
-  Nix: 4089
+  Nix: 4208
+  Objective-C: 3373
   JavaScript: 1257
   Batchfile: 3
-totalBytes: 14598630
+totalBytes: 15759046
 recent:
   last30d:
     since: 2026-08-08
@@ -84,54 +85,54 @@ recent:
     commit: 0
 total:
   release: 626
-  mergedPR: 7238
-  openPR: 42
+  mergedPR: 7254
+  openPR: 30
   closedIssue: 0
   openIssue: 0
-  commit: 8892
+  commit: 8908
 ---
 path: /home/runner/.x-repo/github.com/jdx/rtx
-collectedAt: 2026-09-07T04:37:52Z
+collectedAt: 2026-09-07T19:48:44Z
 loc:
   Rust:
-    code: 276529
-    comments: 11121
-    blanks: 25728
-    files: 548
+    code: 302410
+    comments: 11835
+    blanks: 27262
+    files: 611
   Yaml:
     code: 105120
     comments: 129
     blanks: 29
     files: 3
   Bash:
-    code: 44943
-    comments: 10371
-    blanks: 11008
-    files: 957
+    code: 45379
+    comments: 10435
+    blanks: 11065
+    files: 965
   Toml:
-    code: 10454
-    comments: 456
-    blanks: 732
+    code: 10573
+    comments: 458
+    blanks: 742
     files: 1012
   Json:
-    code: 7175
+    code: 7381
     comments: 0
     blanks: 0
     files: 13
   PowerShell:
-    code: 4650
-    comments: 994
-    blanks: 666
-    files: 84
+    code: 4776
+    comments: 1010
+    blanks: 680
+    files: 86
   Lua:
     code: 4551
     comments: 1224
     blanks: 842
     files: 156
   Sh:
-    code: 2277
+    code: 2288
     comments: 191
-    blanks: 364
+    blanks: 365
     files: 34
   Ruby:
     code: 1524
@@ -139,12 +140,12 @@ loc:
     blanks: 295
     files: 5
   Python:
-    code: 623
-    comments: 49
-    blanks: 120
-    files: 7
+    code: 673
+    comments: 50
+    blanks: 127
+    files: 8
   TypeScript:
-    code: 415
+    code: 420
     comments: 4
     blanks: 53
     files: 3
@@ -170,9 +171,14 @@ loc:
     files: 3
   Nix:
     code: 66
-    comments: 43
+    comments: 44
     blanks: 11
     files: 2
+  ObjectiveC:
+    code: 60
+    comments: 4
+    blanks: 4
+    files: 1
   Vue:
     code: 24
     comments: 10
@@ -190,24 +196,24 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 36715
-    blanks: 15343
-    files: 347
+    comments: 39238
+    blanks: 16126
+    files: 370
   Text:
     code: 0
-    comments: 1335
+    comments: 1337
     blanks: 283
     files: 5
 total:
-  code: 463468
-  comments: 76188
-  blanks: 57527
-  files: 3208
+  code: 490409
+  comments: 81109
+  blanks: 59987
+  files: 3306
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:04+00:00
+  collectedAt: 2026-09-07T19:48:45+00:00
   platform:
     darwin/arm64:
       name:  mise-v2026.9.1-macos-arm64.tar.xz
