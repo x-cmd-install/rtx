@@ -2,25 +2,25 @@ about:
   description: "dev tools, env vars, task runner"
   license: MIT
   homepage: https://mise.jdx.dev
-  head: 24c82d3
+  head: e03e406
   archived: false
   latestVersion: "v2026.9.2"
-  collectedAt: 2026-09-08T01:57:10Z
+  collectedAt: 2026-09-08T04:33:34Z
 timeline:
   created: 2023-01-09
   lastCommit: 2026-09-08
   lastRelease: 2026-09-07
 popularity:
-  star: 33611
+  star: 33616
   watcher: 49
   fork: 1421
   release: 627
   contributor: 950
-  pullRequest: 8189
+  pullRequest: 8195
   issue: 0
 language:
-  Rust: 13028838
-  Shell: 2454344
+  Rust: 13100226
+  Shell: 2472220
   PowerShell: 305256
   Ruby: 56942
   Lua: 42328
@@ -33,7 +33,7 @@ language:
   Objective-C: 3373
   JavaScript: 1257
   Batchfile: 3
-totalBytes: 15948151
+totalBytes: 16037415
 recent:
   last30d:
     since: 2026-08-09
@@ -85,40 +85,40 @@ recent:
     commit: 0
 total:
   release: 627
-  mergedPR: 7263
-  openPR: 32
+  mergedPR: 7274
+  openPR: 27
   closedIssue: 0
   openIssue: 0
-  commit: 8917
+  commit: 8928
 ---
 path: /home/runner/.x-repo/github.com/jdx/rtx
-collectedAt: 2026-09-08T01:57:25Z
+collectedAt: 2026-09-08T04:33:52Z
 loc:
   Rust:
-    code: 303001
-    comments: 11835
-    blanks: 27314
-    files: 612
+    code: 304786
+    comments: 11847
+    blanks: 27405
+    files: 615
   Yaml:
     code: 105192
     comments: 129
     blanks: 29
     files: 3
   Bash:
-    code: 48002
-    comments: 10822
-    blanks: 11272
-    files: 1007
+    code: 48361
+    comments: 10865
+    blanks: 11309
+    files: 1012
   Toml:
-    code: 10600
-    comments: 458
-    blanks: 742
+    code: 10607
+    comments: 460
+    blanks: 743
     files: 1018
   Json:
-    code: 7381
+    code: 7476
     comments: 0
     blanks: 0
-    files: 13
+    files: 14
   PowerShell:
     code: 5007
     comments: 1014
@@ -130,8 +130,8 @@ loc:
     blanks: 842
     files: 156
   Sh:
-    code: 2288
-    comments: 191
+    code: 2289
+    comments: 194
     blanks: 365
     files: 34
   Ruby:
@@ -140,10 +140,10 @@ loc:
     blanks: 295
     files: 5
   Python:
-    code: 673
+    code: 720
     comments: 50
-    blanks: 127
-    files: 8
+    blanks: 133
+    files: 9
   TypeScript:
     code: 420
     comments: 4
@@ -196,19 +196,19 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 39477
-    blanks: 16168
-    files: 371
+    comments: 39760
+    blanks: 16342
+    files: 372
   Text:
     code: 0
     comments: 1337
     blanks: 283
     files: 5
 total:
-  code: 493957
-  comments: 81757
-  blanks: 60315
-  files: 3358
+  code: 496248
+  comments: 82117
+  blanks: 60623
+  files: 3369
 ---
 
 ---
