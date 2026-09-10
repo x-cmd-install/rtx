@@ -2,12 +2,12 @@ about:
   description: "dev tools, env vars, task runner"
   license: MIT
   homepage: https://mise.jdx.dev
-  head: 3d7c140
+  head: da8ba6d
   archived: false
   latestVersion: "v2026.9.4"
   latestRelease: "v2026.9.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:20:36Z
+  collectedAt: 2026-09-10T20:08:19Z
 timeline:
   created: 2023-01-09
   lastCommit: 2026-09-10
@@ -15,16 +15,16 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 33752
+  star: 33763
   watcher: 51
   fork: 1427
   release: 629
   contributor: 951
-  pullRequest: 8255
+  pullRequest: 8262
   issue: 0
 language:
-  Rust: 13299045
-  Shell: 2520378
+  Rust: 13339650
+  Shell: 2536096
   PowerShell: 305958
   Ruby: 56942
   Lua: 42328
@@ -37,7 +37,7 @@ language:
   Objective-C: 3373
   JavaScript: 1257
   Batchfile: 3
-totalBytes: 16286433
+totalBytes: 16342756
 recent:
   last30d:
     since: 2026-08-11
@@ -89,19 +89,19 @@ recent:
     commit: 0
 total:
   release: 629
-  mergedPR: 7324
+  mergedPR: 7329
   openPR: 30
   closedIssue: 0
   openIssue: 0
-  commit: 8978
+  commit: 8983
 ---
 path: /home/runner/.x-repo/github.com/jdx/rtx
-collectedAt: 2026-09-10T16:20:49Z
+collectedAt: 2026-09-10T20:08:31Z
 loc:
   Rust:
-    code: 309829
-    comments: 11920
-    blanks: 27653
+    code: 310760
+    comments: 11936
+    blanks: 27687
     files: 620
   Yaml:
     code: 105192
@@ -109,17 +109,17 @@ loc:
     blanks: 29
     files: 3
   Bash:
-    code: 49291
-    comments: 10978
-    blanks: 11414
-    files: 1032
+    code: 49629
+    comments: 11024
+    blanks: 11459
+    files: 1037
   Toml:
-    code: 10654
+    code: 10659
     comments: 460
     blanks: 746
-    files: 1019
+    files: 1020
   Json:
-    code: 7584
+    code: 7706
     comments: 0
     blanks: 0
     files: 14
@@ -200,8 +200,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 39996
-    blanks: 16422
+    comments: 40055
+    blanks: 16439
     files: 373
   Text:
     code: 0
@@ -209,10 +209,10 @@ loc:
     blanks: 283
     files: 5
 total:
-  code: 502598
-  comments: 82675
-  blanks: 61080
-  files: 3400
+  code: 504020
+  comments: 82815
+  blanks: 61180
+  files: 3406
 ---
 
 ---
