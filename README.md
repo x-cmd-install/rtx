@@ -12,6 +12,18 @@ dev tools, env vars, task runner
 x install rtx
 ```
 
+## Code insight
+
+Total: **499,580** lines of code across **2694** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 310,760 | 11,936 | 27,687 | 620 |
+| Yaml | 105,192 | 129 | 29 | 3 |
+| Bash | 49,629 | 11,024 | 11,459 | 1037 |
+| Toml | 10,659 | 460 | 746 | 1020 |
+| Json | 7,706 | 0 | 0 | 14 |
+
 ## Source
 
 - **Upstream**: <https://github.com/jdx/rtx>
@@ -23,6 +35,25 @@ x install rtx
 - **Latest**: `v2026.9.4` (2026-09-09)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 52
+
+## Popularity
+
+- **Stars**: 33,763 · **Forks**: 1,427 · **Open issues**: 0 · **Contributors**: 951
+
+## Totals (cumulative)
+
+- **Releases**: 629 · **Merged PRs**: 7329 · **Open PRs**: 30 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8983
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 32 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,34 +112,6 @@ x install rtx
 | [SHASUMS512.txt.minisig](https://github.com/jdx/rtx/releases/download/v2026.9.4/SHASUMS512.txt.minisig) | 309 B | `other` |
 | [v2026.9.4.tar.gz.sig](https://github.com/jdx/rtx/releases/download/v2026.9.4/v2026.9.4.tar.gz.sig) | 566 B | `other` |
 
-## Popularity
-
-- **Stars**: 33,752 · **Forks**: 1,427 · **Open issues**: 0 · **Contributors**: 951
-
-## Totals (cumulative)
-
-- **Releases**: 629 · **Merged PRs**: 7324 · **Open PRs**: 30 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8978
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 49 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 100 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **498,184** lines of code across **2688** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 309,829 | 11,920 | 27,653 | 620 |
-| Yaml | 105,192 | 129 | 29 | 3 |
-| Bash | 49,291 | 10,978 | 11,414 | 1032 |
-| Toml | 10,654 | 460 | 746 | 1019 |
-| Json | 7,584 | 0 | 0 | 14 |
-
 ## Improve this data
 
 Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rtx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -118,4 +121,4 @@ Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:20:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:44Z._
