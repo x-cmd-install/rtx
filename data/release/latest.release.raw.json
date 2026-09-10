@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12418,
       "digest": "sha256:065cf6b4a209b86c2f057455b9081f7e35cf37cdc9382a18a3e3fe98734a5ed1",
-      "download_count": 84,
+      "download_count": 409,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/install.sh"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 305,
       "digest": "sha256:fc8a07fb43fe10c4c964b9aca372a73657e513e3806510411f6325e31261e539",
-      "download_count": 2,
+      "download_count": 126,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/install.sh.minisig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4728,
       "digest": "sha256:f1e46971caa586b22f6e07c6a2c93ae955b8fec49744c6bc89699113739b7350",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/install.sh.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 112015344,
       "digest": "sha256:858911883188ab4f0c10ba0d4e401f3af47737d3035c1820cd3c8aa400d09478",
-      "download_count": 17,
+      "download_count": 76,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:14Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 107892632,
       "digest": "sha256:82d10b29ac668b31f937b788fd99feb305fc9f2f4955825baf57d714aac2e25d",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:15Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64-musl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 40712252,
       "digest": "sha256:c8d6281ae88d2b32086f97d04e75089aa26159d8d68da9f3a5d0ecbf43dbca47",
-      "download_count": 14,
+      "download_count": 46,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:13Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64-musl.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 24535936,
       "digest": "sha256:8050f84920c413784daf0f18160f45bc3a4f568eb50f344228a156c15016b779",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:12Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64-musl.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 29480461,
       "digest": "sha256:9be7f94be8e0cb4a2b9ff6fefa9febee8caff71485435dbce1c5f1ca57bd9b2e",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:12Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64-musl.tar.zst"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 40885503,
       "digest": "sha256:18303fdb59095acf0c50b0d23819b87182516988f9eb2ec016b52f8814916904",
-      "download_count": 265,
+      "download_count": 734,
       "created_at": "2026-09-09T21:37:12Z",
       "updated_at": "2026-09-09T21:37:13Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 24560024,
       "digest": "sha256:ed4a996247a6f1fa088c8f6ae3c64c255a463347e2c6d074155e7147c454b0e3",
-      "download_count": 66,
+      "download_count": 128,
       "created_at": "2026-09-09T21:37:12Z",
       "updated_at": "2026-09-09T21:37:13Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 29597772,
       "digest": "sha256:71f3d9b4a9cddfa5392d8dd2b5d213241dbbcf530c610066848a16a67b6942cc",
-      "download_count": 725,
+      "download_count": 2042,
       "created_at": "2026-09-09T21:37:13Z",
       "updated_at": "2026-09-09T21:37:14Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-arm64.tar.zst"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 113860192,
       "digest": "sha256:c2d1a66eef803ab237a6f924462caa20b061182ad3828b75bb83fbb30d9bf1da",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:13Z",
       "updated_at": "2026-09-09T21:37:18Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 112337896,
       "digest": "sha256:4d8b07d0d47034c3b5b9ccdb78961243e74c3d533a1eef095de6ffed26482fcb",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:14Z",
       "updated_at": "2026-09-09T21:37:17Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7-musl"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 42305004,
       "digest": "sha256:42b275d520bb1b47de577fe14631a72951f95c882f1902ecf7ab69126fc6c6e9",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-09-09T21:37:14Z",
       "updated_at": "2026-09-09T21:37:16Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 25689004,
       "digest": "sha256:61357da87fff0ad5c0cfcddaa3d519c09616f89b42daa5a2f99627bda6a12853",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:14Z",
       "updated_at": "2026-09-09T21:37:16Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7-musl.tar.xz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 31230476,
       "digest": "sha256:b24aee59c8daa1ee049123019fe6883d0aa2f7c68adab78a8f9538850f93a085",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:15Z",
       "updated_at": "2026-09-09T21:37:16Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7-musl.tar.zst"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 43068111,
       "digest": "sha256:fa8f606c28a1cffb4293a03280933381dc7899e87aeeca981b07c449831c4631",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-09T21:37:16Z",
       "updated_at": "2026-09-09T21:37:18Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 26212368,
       "digest": "sha256:359b94c82cafd8dcdb75cea88254cd7b7baca405bea1c48d8f5382eda22310f6",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:16Z",
       "updated_at": "2026-09-09T21:37:18Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 31859385,
       "digest": "sha256:5dff5e816d677afbaf1b991950b07fb76f6e409f5430f53ee44d8af43e8337a4",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-09T21:37:16Z",
       "updated_at": "2026-09-09T21:37:18Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-armv7.tar.zst"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 130224896,
       "digest": "sha256:175e85492247586b8bcc428caf9f6bbe79b18edaa28e9a084086fd1b40cc8a0d",
-      "download_count": 77,
+      "download_count": 261,
       "created_at": "2026-09-09T21:37:18Z",
       "updated_at": "2026-09-09T21:37:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 111693752,
       "digest": "sha256:4c53429e230c07588ae810b3b37f1541f1a763a1f6ac3a71c3fc98904ac3c333",
-      "download_count": 16,
+      "download_count": 33,
       "created_at": "2026-09-09T21:37:18Z",
       "updated_at": "2026-09-09T21:37:22Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64-musl"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 37200681,
       "digest": "sha256:b6c52880891eaa457ee6bd9c040905a07dc95cb75af009cb26ab78aff06f51d1",
-      "download_count": 17,
+      "download_count": 92,
       "created_at": "2026-09-09T21:37:18Z",
       "updated_at": "2026-09-09T21:37:20Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64-musl.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 24084556,
       "digest": "sha256:c13a68320ccde6712d52b3bd379d1bc25671f0711c0d8b42ce36bcd1707499d7",
-      "download_count": 3,
+      "download_count": 16,
       "created_at": "2026-09-09T21:37:18Z",
       "updated_at": "2026-09-09T21:37:19Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64-musl.tar.xz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 27010350,
       "digest": "sha256:c23dab6148780238d43396133b4be7744f5329db6cf0b959fc725a2a571de384",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-09-09T21:37:18Z",
       "updated_at": "2026-09-09T21:37:20Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64-musl.tar.zst"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 41573445,
       "digest": "sha256:2f4489c8e57e7d0fc1ad155691bacac5ed0c613c5e3acec2e42ecad8ace5ce3f",
-      "download_count": 1745,
+      "download_count": 5386,
       "created_at": "2026-09-09T21:37:20Z",
       "updated_at": "2026-09-09T21:37:22Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 25586072,
       "digest": "sha256:77f312d9cb4696f5ba547af4296f50de86b2d280d73f98eb4d4ae71cda559607",
-      "download_count": 508,
+      "download_count": 1223,
       "created_at": "2026-09-09T21:37:20Z",
       "updated_at": "2026-09-09T21:37:21Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 30450836,
       "digest": "sha256:d66aab330c70beaf4b6adf8644adba8d36b65f1fe0f29336b7db544c6185f6e9",
-      "download_count": 5554,
+      "download_count": 15212,
       "created_at": "2026-09-09T21:37:20Z",
       "updated_at": "2026-09-09T21:37:21Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-linux-x64.tar.zst"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 99686896,
       "digest": "sha256:1a646e6d021923d98b73f02e3a1ce4d2c2b216723c704476f3a4e2e23862ba50",
-      "download_count": 21,
+      "download_count": 50,
       "created_at": "2026-09-09T21:37:21Z",
       "updated_at": "2026-09-09T21:37:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-arm64"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 32751958,
       "digest": "sha256:989fa96f2c9eba80e0cc35b0887d69b8f5b25c17f54bc8676aa520e93450425f",
-      "download_count": 373,
+      "download_count": 1096,
       "created_at": "2026-09-09T21:37:22Z",
       "updated_at": "2026-09-09T21:37:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-arm64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 20211120,
       "digest": "sha256:ca9e32bdd4df4038fcc285dcaeaac54923c67f74088cca7f061b2076cdb2c5ae",
-      "download_count": 6,
+      "download_count": 16,
       "created_at": "2026-09-09T21:37:22Z",
       "updated_at": "2026-09-09T21:37:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-arm64.tar.xz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 30003927,
       "digest": "sha256:a24b1eb012ad76a5dc7b87681ec2876b1d7efb6c13a1c355bdbcb89b8ca5d5db",
-      "download_count": 419,
+      "download_count": 1126,
       "created_at": "2026-09-09T21:37:22Z",
       "updated_at": "2026-09-09T21:37:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-arm64.tar.zst"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 119299232,
       "digest": "sha256:80d12fa4cb29b8a6247b616533343fbc0abad7f8376e5373e5b6ef417b42ae44",
-      "download_count": 7,
+      "download_count": 12,
       "created_at": "2026-09-09T21:37:23Z",
       "updated_at": "2026-09-09T21:37:27Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-x64"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 42571345,
       "digest": "sha256:5f3105599177b11530b29af7a3fd1e89ef2f21cecb01e54e4aebb6f62ac0c78c",
-      "download_count": 27,
+      "download_count": 78,
       "created_at": "2026-09-09T21:37:23Z",
       "updated_at": "2026-09-09T21:37:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-x64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 28485988,
       "digest": "sha256:afc427989057c1e8e634af348831f844024b95d49400e9c551387a3f4e2ebad1",
-      "download_count": 3,
+      "download_count": 11,
       "created_at": "2026-09-09T21:37:23Z",
       "updated_at": "2026-09-09T21:37:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-x64.tar.xz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 39246344,
       "digest": "sha256:fe384a44582869963a3b0c9bf11189f39f727f8d25f0983dc92ebba3a00cf2a3",
-      "download_count": 23,
+      "download_count": 86,
       "created_at": "2026-09-09T21:37:24Z",
       "updated_at": "2026-09-09T21:37:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-macos-x64.tar.zst"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 89697280,
       "digest": "sha256:85489fdf5bb2f71d762ac62b5ea610294e6563fa245ab3381fcc458a178b0531",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-09-09T21:37:25Z",
       "updated_at": "2026-09-09T21:37:28Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-windows-arm64.exe"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 34195775,
       "digest": "sha256:ef7eccd7f6ff517aa3543920394df54d925eab43f37c3f1cc0cfc11370877a81",
-      "download_count": 31,
+      "download_count": 89,
       "created_at": "2026-09-09T21:37:25Z",
       "updated_at": "2026-09-09T21:37:26Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-windows-arm64.zip"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 102360064,
       "digest": "sha256:90c3f92ece7c15cef68fa429ec553ca65da83370ea93df1fdb0aa2d0ff4aeee4",
-      "download_count": 65,
+      "download_count": 109,
       "created_at": "2026-09-09T21:37:25Z",
       "updated_at": "2026-09-09T21:37:29Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-windows-x64.exe"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 36939431,
       "digest": "sha256:2fe8d320f97731847586095480aff3c48cc7f312702f457cb7f8cfc41c8dbd38",
-      "download_count": 726,
+      "download_count": 1902,
       "created_at": "2026-09-09T21:37:26Z",
       "updated_at": "2026-09-09T21:37:27Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise-v2026.9.4-windows-x64.zip"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 3231,
       "digest": "sha256:ae0da351d7b48dc54e810843a3eeafa31579df5502e7f033a65010a0d87dc058",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-09T21:40:04Z",
       "updated_at": "2026-09-09T21:40:04Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise.bash"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 3120,
       "digest": "sha256:b25af38db9a3f5159edc2337f1790e792b63970e52a5a609b5378ffe4e2d61f8",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-09T21:40:04Z",
       "updated_at": "2026-09-09T21:40:04Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise.fish"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 4618,
       "digest": "sha256:8901a0c4f205a958f61483d8e3f0877643632c3c5928fc404abb7323028aea93",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-09-09T21:40:04Z",
       "updated_at": "2026-09-09T21:40:04Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise.powershell"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 312869,
       "digest": "sha256:a7e759039607bf3745d640455bcac5edd6da02db87e9a958fe685e56a01629c1",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-09T21:40:04Z",
       "updated_at": "2026-09-09T21:40:04Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise.usage.kdl"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 4240,
       "digest": "sha256:ad713c3e5198f658a725ecd53f61d587488319586944d844c591148435477b0f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-09T21:40:04Z",
       "updated_at": "2026-09-09T21:40:04Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/mise.zsh"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 40563,
       "digest": "sha256:8e162d87cb41af27b6d0e786f4276fddebf3c7803a3e3c60a30673e13d15d4bd",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-09-09T21:41:05Z",
       "updated_at": "2026-09-09T21:41:05Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/packslip.sigstore.json"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 4534,
       "digest": "sha256:c1b3d5e001ffe5c5531c972293f09c8ab9c9e11600f4b085a78a1d3b09c8a3a2",
-      "download_count": 38,
+      "download_count": 84,
       "created_at": "2026-09-09T21:37:09Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS256.asc"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 3652,
       "digest": "sha256:e9f9f6ca5a99cb67c39d5f642b4ee7c115b30578b3163b642833822f7dd0e724",
-      "download_count": 5754,
+      "download_count": 15234,
       "created_at": "2026-09-09T21:37:09Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS256.txt"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 309,
       "digest": "sha256:de4392bcab7bb86c44a54ba83c293639374f993435d94ef80d5564afddc39987",
-      "download_count": 5089,
+      "download_count": 13774,
       "created_at": "2026-09-09T21:37:09Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS256.txt.minisig"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 6985,
       "digest": "sha256:8bad521e192b29c14bb9bc120e95f99b0b22e15a3fd9979f892bbf1412abda5e",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-09-09T21:37:09Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS512.asc"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 6103,
       "digest": "sha256:47d0bc07ed1b60e69a29cc06978c0f4932a196bace4e7c07483f50ab09b76a27",
-      "download_count": 10,
+      "download_count": 21,
       "created_at": "2026-09-09T21:37:09Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS512.txt"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 309,
       "digest": "sha256:1caf93c7d867d02c48daa7cace1801a444e427a7abf17b735fb147e525352f58",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-09-09T21:37:10Z",
       "updated_at": "2026-09-09T21:37:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/SHASUMS512.txt.minisig"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:64ac457e67a16674706b9d3b438484cf7775471ce9c61add090e4acc9075d4a1",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-09-09T21:37:27Z",
       "updated_at": "2026-09-09T21:37:27Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.9.4/v2026.9.4.tar.gz.sig"
@@ -1912,5 +1912,17 @@
   "tarball_url": "https://api.github.com/repos/jdx/mise/tarball/v2026.9.4",
   "zipball_url": "https://api.github.com/repos/jdx/mise/zipball/v2026.9.4",
   "body": "This release expands the bootstrap package model with Nix support and environment selectors, teaches packslip tools to ship man pages, and adds a task-scoped quiet setting. It also carries a wide batch of packslip, bootstrap, and cross-platform fixes plus a major speedup to dotfiles history rebuilds.\n\n## Added\n- **bootstrap:** Nix is now a built-in `[bootstrap.packages]` manager on Linux and macOS. Declare packages with the `nix:` prefix and apply them through your normal Nix profile; the manager supports use, apply, status JSON, and targeted upgrades while leaving Nix sources, caches, trust, and profile rollback under Nix control. This also adds `mise bootstrap packages export --format nix` to emit a deterministic NixOS module from your `nix:` declarations and `packages use --no-install` to record declarations without touching package managers. ([#13013](https://github.com/jdx/mise/pull/13013) by @jdx)\n\n  ```toml\n  [bootstrap.packages]\n  \"nix:ripgrep\" = \"latest\"\n  ```\n- **bootstrap:** `[bootstrap.packages]` entries gain an `env` selector (a single environment or a list), so a package is only enabled when one of its listed mise environments is active via `-E` or `MISE_ENV`. When both `os` and `env` are set, both must match. Packages for inactive environments stay declared and are protected from pruning. ([#12956](https://github.com/jdx/mise/pull/12956) by @jdx)\n\n  ```toml\n  [bootstrap.packages]\n  \"brew:postgresql\" = { version = \"latest\", env = [\"dev\", \"test\"] }\n  ```\n- **packslip:** Packslip-installed tools can now ship man pages declared as static `man` resources, alongside completions and agent skills. While a tool version is active, mise prepends its man root to `MANPATH` and keeps system and caller-defined paths visible, so `man <tool>` works. Existing installs need to be reinstalled to pick up man pages. ([#13012](https://github.com/jdx/mise/pull/13012) by @jdx)\n- **task:** New `task.quiet` setting (and `MISE_TASK_QUIET`) suppresses mise's own task messages, prefixes, and command-echo headers without hiding task output or affecting other commands. The bundled `output = \"quiet\"` mode is deprecated in favor of explicit output style plus this setting; removal is scheduled for 2027.9.3. ([#12980](https://github.com/jdx/mise/pull/12980) by @jdx)\n\n## Fixed\n- **install:** A lazy tool whose `depends` target is also lazy now installs correctly on first use through a shim, `mise x`, or a task; mise installs the provider together with its still-missing configured dependencies instead of failing the preflight. ([#12997](https://github.com/jdx/mise/pull/12997) by @balintant)\n- **backend:** 32-bit ARM resolution now uses Go's canonical `arm` architecture name for Aqua (so registry replacements apply), and automatic GitHub release asset selection no longer picks a generic `source.tar.gz` when no published binary targets the host. ([#13004](https://github.com/jdx/mise/pull/13004) by @jdx)\n- **bootstrap:** Homebrew bottles with hard-linked Mach-O executables are now signed correctly on macOS. Every hard-link alias is tracked and included in the signing list after relocation, fixing cases like fish where an aliased binary was killed with SIGKILL after a successful install. ([#12988](https://github.com/jdx/mise/pull/12988) by @nettlesh)\n- **packslip:** `mise lock --platform` now verifies the signed release manifest and records the correct URL, checksum, size, and signer for each requested target platform (including Windows x64), so locked installs work across platforms. ([#13002](https://github.com/jdx/mise/pull/13002) by @jdx)\n- **packslip:** On glibc Linux, an artifact's `glibc_min` is now honored during selection: when the GNU build requires a newer glibc than the host, mise falls back to a matching static musl build if one exists. ([#13009](https://github.com/jdx/mise/pull/13009) by @jdx)\n- **packslip:** Windows installs now link shims with the correct `.exe` filename, while Unix keeps extensionless names. ([#13006](https://github.com/jdx/mise/pull/13006) by @jdx)\n- **packslip:** Activated man roots are now scoped to Packslip-backed tool versions, and the caller's original `MANPATH` is included in the environment-cache identity so one cached process cannot serve another caller's `MANPATH`. ([#13016](https://github.com/jdx/mise/pull/13016) by @jdx)\n- **prune:** `mise prune` no longer exits successfully without pruning when it cannot show a confirmation prompt; it now fails with guidance to pass `--yes` or set `MISE_YES=1`. Follow-up prunes from commands like `mise unuse` still leave installs in place when nobody can answer. ([#13003](https://github.com/jdx/mise/pull/13003) by @jdx)\n- **generate:** `mise generate tool-stub` now respects a stub's top-level `os` selector when deciding whether to write a Windows `.cmd` launcher, so a linux/macos-only stub no longer produces a launcher even with `--lock`. ([#13008](https://github.com/jdx/mise/pull/13008) by @jdx)\n- **dotfiles:** History path filters resolve correctly when `HOME` is a symlink, so aliased, canonical, and tilde paths address the same history entry and `show latest`/`diff` no longer report a missing checkpoint. ([#12982](https://github.com/jdx/mise/pull/12982) by @azohra)\n- **brew:** The published crate now includes the tap formula and cask metadata shims, fixing `cargo install --locked mise` builds from crates.io. ([#13001](https://github.com/jdx/mise/pull/13001) by @jdx)\n\n## Changed\n- **bootstrap:** `[bootstrap].config_roots` and the `mise bootstrap config-roots` command are now deprecated (hidden from help and removed from public docs), with removal scheduled for mise 2027.3.3. Existing configurations keep working during the compatibility window but emit a warning directing users to global or system bootstrap configuration. ([#13010](https://github.com/jdx/mise/pull/13010) by @jdx)\n- **registry:** Added basecamp to the registry. ([#13024](https://github.com/jdx/mise/pull/13024))\n\n## Performance\n- **history:** Dotfiles history index rebuilds are dramatically faster, reconstructing checkpoint metadata in-process with gix instead of spawning Git per checkpoint. On an 80-checkpoint, 44-file reproducer this cut a rebuild from roughly 26-28 seconds and thousands of Git processes down to under a second. Removed annotations are now correctly dropped after a rebuild, and SHA-256 history repositories are supported. ([#13011](https://github.com/jdx/mise/pull/13011) by @jdx)\n\n## Deprecated\n- The task `output = \"quiet\"` mode (use `task.quiet` instead; removal in 2027.9.3) ([#12980](https://github.com/jdx/mise/pull/12980)).\n- `[bootstrap].config_roots` and `mise bootstrap config-roots` (removal in mise 2027.3.3) ([#13010](https://github.com/jdx/mise/pull/13010)).\n\n## New Contributors\n* @balintant made their first contribution in [#12997](https://github.com/jdx/mise/pull/12997)\n\n**Full Changelog**: https://github.com/jdx/mise/compare/v2026.9.3...v2026.9.4\n\n## 💚 Sponsor mise\n\nmise is built and maintained by [@jdx](https://github.com/jdx), an open source developer at [**entire.io**](https://entire.io/), the title sponsor of his open source work.\n\nIf mise saves you or your team time, please consider becoming an [individual or company sponsor](https://jdx.dev/sponsors.html). Your support funds ongoing development and helps keep mise fast, free, and independent.\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/jdx/mise/releases/385863593/reactions",
+    "total_count": 5,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 5,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 4
 }

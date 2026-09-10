@@ -2,12 +2,12 @@ about:
   description: "dev tools, env vars, task runner"
   license: MIT
   homepage: https://mise.jdx.dev
-  head: 42ab00e
+  head: 3d7c140
   archived: false
   latestVersion: "v2026.9.4"
   latestRelease: "v2026.9.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:51:55Z
+  collectedAt: 2026-09-10T16:20:36Z
 timeline:
   created: 2023-01-09
   lastCommit: 2026-09-10
@@ -15,16 +15,16 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 33724
+  star: 33752
   watcher: 51
-  fork: 1425
+  fork: 1427
   release: 629
   contributor: 951
-  pullRequest: 8253
+  pullRequest: 8255
   issue: 0
 language:
-  Rust: 13276866
-  Shell: 2516985
+  Rust: 13299045
+  Shell: 2520378
   PowerShell: 305958
   Ruby: 56942
   Lua: 42328
@@ -37,7 +37,7 @@ language:
   Objective-C: 3373
   JavaScript: 1257
   Batchfile: 3
-totalBytes: 16260861
+totalBytes: 16286433
 recent:
   last30d:
     since: 2026-08-11
@@ -89,29 +89,29 @@ recent:
     commit: 0
 total:
   release: 629
-  mergedPR: 7322
+  mergedPR: 7324
   openPR: 30
   closedIssue: 0
   openIssue: 0
-  commit: 8976
+  commit: 8978
 ---
 path: /home/runner/.x-repo/github.com/jdx/rtx
-collectedAt: 2026-09-10T04:52:14Z
+collectedAt: 2026-09-10T16:20:49Z
 loc:
   Rust:
-    code: 309259
-    comments: 11905
-    blanks: 27630
-    files: 619
+    code: 309829
+    comments: 11920
+    blanks: 27653
+    files: 620
   Yaml:
     code: 105192
     comments: 129
     blanks: 29
     files: 3
   Bash:
-    code: 49224
-    comments: 10973
-    blanks: 11412
+    code: 49291
+    comments: 10978
+    blanks: 11414
     files: 1032
   Toml:
     code: 10654
@@ -200,7 +200,7 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 39987
+    comments: 39996
     blanks: 16422
     files: 373
   Text:
@@ -209,10 +209,10 @@ loc:
     blanks: 283
     files: 5
 total:
-  code: 501961
-  comments: 82628
-  blanks: 61055
-  files: 3399
+  code: 502598
+  comments: 82675
+  blanks: 61080
+  files: 3400
 ---
 
 ---
