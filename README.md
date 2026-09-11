@@ -14,15 +14,15 @@ x install rtx
 
 ## Code insight
 
-Total: **502,071** lines of code across **2704** files in the top 5 languages.
+Total: **503,230** lines of code across **2710** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 312,218 | 11,972 | 27,787 | 623 |
+| Rust | 313,052 | 11,990 | 27,821 | 624 |
 | Yaml | 105,481 | 129 | 29 | 3 |
-| Bash | 50,168 | 11,083 | 11,523 | 1043 |
-| Toml | 10,717 | 460 | 749 | 1021 |
-| Json | 7,756 | 0 | 0 | 14 |
+| Bash | 50,469 | 11,122 | 11,568 | 1046 |
+| Toml | 10,732 | 460 | 749 | 1023 |
+| Json | 7,765 | 0 | 0 | 14 |
 
 ## Source
 
@@ -38,11 +38,11 @@ Total: **502,071** lines of code across **2704** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 33,776 · **Forks**: 1,429 · **Open issues**: 0 · **Contributors**: 951
+- **Stars**: 33,807 · **Forks**: 1,430 · **Open issues**: 0 · **Contributors**: 951
 
 ## Totals (cumulative)
 
-- **Releases**: 630 · **Merged PRs**: 7343 · **Open PRs**: 29 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 8997
+- **Releases**: 630 · **Merged PRs**: 7358 · **Open PRs**: 31 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9012
 
 ## Recent activity
 
@@ -121,4 +121,4 @@ Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:32:48Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:37:49Z._
