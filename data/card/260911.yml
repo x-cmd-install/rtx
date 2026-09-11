@@ -1,0 +1,218 @@
+about:
+  description: "dev tools, env vars, task runner"
+  license: MIT
+  homepage: https://mise.jdx.dev
+  head: cb484f0
+  archived: false
+  latestVersion: "v2026.9.5"
+  latestRelease: "v2026.9.5"
+  latestPrerelease: ""
+  collectedAt: 2026-09-11T04:32:29Z
+timeline:
+  created: 2023-01-09
+  lastCommit: 2026-09-11
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
+  lastPrerelease: 
+popularity:
+  star: 33776
+  watcher: 51
+  fork: 1429
+  release: 630
+  contributor: 951
+  pullRequest: 8276
+  issue: 0
+language:
+  Rust: 13400369
+  Shell: 2560731
+  PowerShell: 307697
+  Ruby: 57911
+  Lua: 42328
+  Python: 30133
+  TypeScript: 6664
+  Nix: 5547
+  Xonsh: 5036
+  Pkl: 4924
+  Dockerfile: 4845
+  Objective-C: 3373
+  JavaScript: 1257
+  Batchfile: 3
+totalBytes: 16430818
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 18
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-13
+    release: 33
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-13
+    release: 48
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-15
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-16
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-21
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 630
+  mergedPR: 7343
+  openPR: 29
+  closedIssue: 0
+  openIssue: 0
+  commit: 8997
+---
+path: /home/runner/.x-repo/github.com/jdx/rtx
+collectedAt: 2026-09-11T04:32:39Z
+loc:
+  Rust:
+    code: 312218
+    comments: 11972
+    blanks: 27787
+    files: 623
+  Yaml:
+    code: 105481
+    comments: 129
+    blanks: 29
+    files: 3
+  Bash:
+    code: 50168
+    comments: 11083
+    blanks: 11523
+    files: 1043
+  Toml:
+    code: 10717
+    comments: 460
+    blanks: 749
+    files: 1021
+  Json:
+    code: 7756
+    comments: 0
+    blanks: 0
+    files: 14
+  PowerShell:
+    code: 5084
+    comments: 1008
+    blanks: 710
+    files: 90
+  Lua:
+    code: 4561
+    comments: 1224
+    blanks: 843
+    files: 156
+  Sh:
+    code: 2462
+    comments: 211
+    blanks: 380
+    files: 36
+  Ruby:
+    code: 1551
+    comments: 95
+    blanks: 303
+    files: 5
+  Python:
+    code: 720
+    comments: 50
+    blanks: 133
+    files: 9
+  TypeScript:
+    code: 420
+    comments: 4
+    blanks: 53
+    files: 3
+  Fish:
+    code: 391
+    comments: 104
+    blanks: 124
+    files: 9
+  Dockerfile:
+    code: 165
+    comments: 9
+    blanks: 29
+    files: 8
+  Svg:
+    code: 104
+    comments: 7
+    blanks: 0
+    files: 7
+  JavaScript:
+    code: 102
+    comments: 6
+    blanks: 15
+    files: 3
+  Nix:
+    code: 66
+    comments: 59
+    blanks: 11
+    files: 2
+  ObjectiveC:
+    code: 60
+    comments: 4
+    blanks: 4
+    files: 1
+  Vue:
+    code: 24
+    comments: 10
+    blanks: 6
+    files: 3
+  RPMSpecfile:
+    code: 18
+    comments: 0
+    blanks: 3
+    files: 1
+  Batch:
+    code: 3
+    comments: 1
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 40313
+    blanks: 16505
+    files: 375
+  Text:
+    code: 0
+    comments: 1339
+    blanks: 283
+    files: 5
+total:
+  code: 506526
+  comments: 83237
+  blanks: 61431
+  files: 3419
+---
+
+---
