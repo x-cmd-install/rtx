@@ -14,15 +14,15 @@ x install rtx
 
 ## Code insight
 
-Total: **570,248** lines of code across **2940** files in the top 5 languages.
+Total: **574,147** lines of code across **2954** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 367,222 | 16,669 | 31,506 | 725 |
+| Rust | 370,251 | 16,988 | 31,780 | 731 |
 | Yaml | 106,882 | 129 | 29 | 3 |
-| Bash | 58,423 | 12,754 | 12,716 | 1153 |
-| Toml | 11,478 | 509 | 810 | 1042 |
-| Json | 9,000 | 0 | 0 | 17 |
+| Bash | 59,098 | 12,907 | 12,851 | 1159 |
+| Toml | 11,523 | 515 | 815 | 1044 |
+| Json | 9,008 | 0 | 0 | 17 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **570,248** lines of code across **2940** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2026.9.14` (2026-09-25)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-09-27
 - **Assets in release**: 52
 
 ## Popularity
 
-- **Stars**: 34,299 · **Forks**: 1,450 · **Open issues**: 1,581 · **Contributors**: 959
+- **Stars**: 34,327 · **Forks**: 1,448 · **Open issues**: 1,586 · **Contributors**: 960
 
 ## Totals (cumulative)
 
-- **Releases**: 639 · **Merged PRs**: 7727 · **Open PRs**: 19 · **Closed issues**: 1580 · **Open issues**: 1 · **Commits**: 9389
+- **Releases**: 639 · **Merged PRs**: 7757 · **Open PRs**: 23 · **Closed issues**: 1585 · **Open issues**: 1 · **Commits**: 9419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 35 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 48 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-28 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 48 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-31 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-07 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:59:19Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:21:14Z._
