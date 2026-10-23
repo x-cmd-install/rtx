@@ -1,0 +1,39 @@
+- repo: alpine_3_18
+  subrepo: community
+  srcname: rtx
+  binname: rtx
+  visiblename: rtx
+  version: 1.29.3
+  origversion: 1.29.3-r0
+  status: outdated
+  summary: Polyglot runtime and dev tool version manager
+  maintainers:
+    - alpine@rtx.pub
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: rtx
+  binname: rtx
+  visiblename: rtx
+  version: 2023.12.8
+  origversion: 2023.12.8-r0
+  status: unique
+  summary: Polyglot runtime and dev tool version manager
+  maintainers:
+    - alpine@rtx.pub
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: rtx
+  binname: rtx-doc
+  visiblename: rtx-doc
+  version: 2023.12.8
+  origversion: 2023.12.8-r0
+  status: unique
+  summary: Polyglot runtime and dev tool version manager (documentation)
+  maintainers:
+    - alpine@rtx.pub
+  licenses:
+    - MIT
