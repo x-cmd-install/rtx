@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 13127,
       "digest": "sha256:47b7724534c8f9fd2907b5ac05dffc6d1fb0b113be933e737c51b02f62400e1a",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.ps1"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 306,
       "digest": "sha256:cf3ddc7358cdcd975058dc7452836b15119c5e3c651c9a378f81afb09f8ace56",
-      "download_count": 55,
+      "download_count": 186,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.ps1.minisig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5688,
       "digest": "sha256:f6ae472c242573c4090d6d6e79844b6f8bd058ae62cbf88f0c7b7f081681b9ed",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.ps1.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 17379,
       "digest": "sha256:4a0508efdaf9d2e58a0c0b2fe5b4c87af6da2976d1b5abb5f3feb9a1c1874ebf",
-      "download_count": 710,
+      "download_count": 1221,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:58Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 305,
       "digest": "sha256:f9db38da2e9946af3a7a0f81baea67d0c78b7670c0d0656d347d801620200bc7",
-      "download_count": 723,
+      "download_count": 1340,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:18:58Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.sh.minisig"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6560,
       "digest": "sha256:c9aa69552da95fb1e8dfc5edc9ab382586d5e1ce0488cff65cc2f5f0a78f34e9",
-      "download_count": 88,
+      "download_count": 139,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:18:58Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/install.sh.sig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 163830968,
       "digest": "sha256:52f4a75495bde5571d5d0a45b4d9b5227c2c099b92f9be85328569e67b12c553",
-      "download_count": 151,
+      "download_count": 388,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:19:05Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 163880160,
       "digest": "sha256:aab2e24388543a9bd7d804585d0f129708afe68a3c6bc1020c0c90d3214c6eac",
-      "download_count": 25,
+      "download_count": 36,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:19:05Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64-musl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 62040295,
       "digest": "sha256:bd5adc3eaaaa886eac1be7a9f68c722c691ed05177b0169fe1ac944d0b47d177",
-      "download_count": 83,
+      "download_count": 143,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:19:01Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 34762936,
       "digest": "sha256:49128662eaab66a8b86653d60080a3f3650d671ade5d054a0b2d6c142c46fb24",
-      "download_count": 21,
+      "download_count": 32,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:19:00Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64-musl.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 42910862,
       "digest": "sha256:a4119403186ee7f658a5d3681232d6c726b6eae0345f1f1e67507858911059ed",
-      "download_count": 23,
+      "download_count": 29,
       "created_at": "2026-11-21T11:18:58Z",
       "updated_at": "2026-11-21T11:19:00Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64-musl.tar.zst"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 61763526,
       "digest": "sha256:9a125763f8445ea28d2da0e943fe5ad7d81b397d78f173cc07c1cc18ee2bee47",
-      "download_count": 366,
+      "download_count": 1942,
       "created_at": "2026-11-21T11:19:00Z",
       "updated_at": "2026-11-21T11:19:03Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 34532984,
       "digest": "sha256:3288b434da275f8bac7d5cd1cf6310dc6389d5a1043971b2b14c2c14ff170271",
-      "download_count": 103,
+      "download_count": 245,
       "created_at": "2026-11-21T11:19:01Z",
       "updated_at": "2026-11-21T11:19:02Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 42626226,
       "digest": "sha256:2d718d20cb3ba53eb779502265d2cb553c07c2cf29f68a8f87069001a8b0474a",
-      "download_count": 1458,
+      "download_count": 6411,
       "created_at": "2026-11-21T11:19:01Z",
       "updated_at": "2026-11-21T11:19:03Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-arm64.tar.zst"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 176149472,
       "digest": "sha256:a26b04f7afafa9932b3e8c6cc74a2a52ef37b68fe907db9b29704ac9765591a3",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-21T11:19:03Z",
       "updated_at": "2026-11-21T11:19:09Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 177074340,
       "digest": "sha256:287a89f0d9d0e808bd3f4920dfdad0687a4a34cdf21f4db2a45b766b12dfdc8d",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-21T11:19:03Z",
       "updated_at": "2026-11-21T11:19:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7-musl"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 66030058,
       "digest": "sha256:d298bd189a41848a6f972d1508e031cf21a0bbf7080ef7a4c1a3c75aa4eb8727",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-21T11:19:03Z",
       "updated_at": "2026-11-21T11:19:06Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 37450856,
       "digest": "sha256:1fe45359c6bd00ee0df38900d8841bea0acef7f59281b9a9f4376e1859234e08",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-21T11:19:05Z",
       "updated_at": "2026-11-21T11:19:07Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7-musl.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 47083463,
       "digest": "sha256:d8ee04b29fb1e1f637adafd03c6a9e379db474e41740241966bc766f2cfa5da3",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-21T11:19:05Z",
       "updated_at": "2026-11-21T11:19:08Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7-musl.tar.zst"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 66660877,
       "digest": "sha256:086f53f7449c0f056c1327c9aed105e485effc07ece709d816839ea44858b721",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-21T11:19:06Z",
       "updated_at": "2026-11-21T11:19:08Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 38040064,
       "digest": "sha256:6db3788a267cc72bb4faacd34a00cc039f2e2ac573660b4d860eb143e9d65a6c",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-21T11:19:07Z",
       "updated_at": "2026-11-21T11:19:08Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 47624703,
       "digest": "sha256:712be948e01b8a3403458a0bb350c63144f865861182a05a425c11b4b81ca4d1",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-21T11:19:08Z",
       "updated_at": "2026-11-21T11:19:10Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-armv7.tar.zst"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 192663808,
       "digest": "sha256:9c12c24f5eac6b6357e5265e2629166cc3005459037f5d747680a99e375ff2ab",
-      "download_count": 732,
+      "download_count": 2239,
       "created_at": "2026-11-21T11:19:08Z",
       "updated_at": "2026-11-21T11:19:15Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 173954712,
       "digest": "sha256:0c4c697240b178ac8bf4f5e25824fc25d04a47a700f79721cfd1b1fd83c1c905",
-      "download_count": 59,
+      "download_count": 118,
       "created_at": "2026-11-21T11:19:08Z",
       "updated_at": "2026-11-21T11:19:15Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64-musl"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 55862156,
       "digest": "sha256:4c15d9027d11e85c03c10341cc56d70d8ef31f03db6f82737d7117aec30edb05",
-      "download_count": 284,
+      "download_count": 784,
       "created_at": "2026-11-21T11:19:10Z",
       "updated_at": "2026-11-21T11:19:13Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64-musl.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 34218028,
       "digest": "sha256:79a86179c972faf102574c43f45e4485b441861d51433bfb5721bac2b01543cb",
-      "download_count": 33,
+      "download_count": 57,
       "created_at": "2026-11-21T11:19:10Z",
       "updated_at": "2026-11-21T11:19:12Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64-musl.tar.xz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 38934539,
       "digest": "sha256:953182b9c78696f6145a4e172ca6d66ada7e82153ddd5001d08b36de7c2de37d",
-      "download_count": 268,
+      "download_count": 468,
       "created_at": "2026-11-21T11:19:10Z",
       "updated_at": "2026-11-21T11:19:12Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64-musl.tar.zst"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 61027728,
       "digest": "sha256:4b029e19afc575875a4962dfe5d5e31cc93ab0317242768d0234adec219d3e14",
-      "download_count": 1757,
+      "download_count": 9875,
       "created_at": "2026-11-21T11:19:12Z",
       "updated_at": "2026-11-21T11:19:14Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 35923140,
       "digest": "sha256:0cb82304bdd722fba7bce8e722e61494a72eede37ce4bce23aed0cb8a698367d",
-      "download_count": 1972,
+      "download_count": 5597,
       "created_at": "2026-11-21T11:19:12Z",
       "updated_at": "2026-11-21T11:19:14Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64.tar.xz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 43293762,
       "digest": "sha256:caf6614bba2a52d03de267d1411c3178f1fa2989ed294280e3e297491997f9e1",
-      "download_count": 14978,
+      "download_count": 41707,
       "created_at": "2026-11-21T11:19:13Z",
       "updated_at": "2026-11-21T11:19:14Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-linux-x64.tar.zst"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 145004064,
       "digest": "sha256:87b2bd5a1b88a612ee8856df23499404b115870b5a8a8e008763c7cd51c8d412",
-      "download_count": 73,
+      "download_count": 193,
       "created_at": "2026-11-21T11:19:14Z",
       "updated_at": "2026-11-21T11:19:20Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-arm64"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 50190338,
       "digest": "sha256:f7bd19aa4e6b7a58d7296f98e2c6af68b2e2643dfd608b0bc46c2b5fdbc8749b",
-      "download_count": 241,
+      "download_count": 1662,
       "created_at": "2026-11-21T11:19:14Z",
       "updated_at": "2026-11-21T11:19:17Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-arm64.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 29881828,
       "digest": "sha256:ab5b87f94e5a4d35ff44eb960ce57d476e40babe67b7e0144cc4f292a07e74da",
-      "download_count": 32,
+      "download_count": 53,
       "created_at": "2026-11-21T11:19:14Z",
       "updated_at": "2026-11-21T11:19:16Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-arm64.tar.xz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 45776789,
       "digest": "sha256:ecff58bd66a10436292c236c424ea2e28b828f842e91643a8e16beb846aaf983",
-      "download_count": 860,
+      "download_count": 4096,
       "created_at": "2026-11-21T11:19:15Z",
       "updated_at": "2026-11-21T11:19:18Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-arm64.tar.zst"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 175891504,
       "digest": "sha256:14954fb2f451636a53a04c025e1bf896f5f47f3fd19aaac9f6ff792fdfdbc18d",
-      "download_count": 24,
+      "download_count": 53,
       "created_at": "2026-11-21T11:19:15Z",
       "updated_at": "2026-11-21T11:19:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-x64"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 65915819,
       "digest": "sha256:19c0e3dff9eddaab7a3519e9556be35580ade53b2bffb550f307343cb6b678ef",
-      "download_count": 48,
+      "download_count": 142,
       "created_at": "2026-11-21T11:19:16Z",
       "updated_at": "2026-11-21T11:19:19Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-x64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 42627876,
       "digest": "sha256:4419ae54373f90343e0322e81e673384be892ecdb663013480483160fafaac56",
-      "download_count": 19,
+      "download_count": 24,
       "created_at": "2026-11-21T11:19:17Z",
       "updated_at": "2026-11-21T11:19:20Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-x64.tar.xz"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 60244309,
       "digest": "sha256:d7d34de265392051c8d72031ccb296aa6f261a4c29e04e4f53eb89e3e19394c9",
-      "download_count": 22,
+      "download_count": 169,
       "created_at": "2026-11-21T11:19:18Z",
       "updated_at": "2026-11-21T11:19:21Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-macos-x64.tar.zst"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 217771640,
       "digest": "sha256:7383644762327e051a5833215d926d67c0aa9ddfe8a24a2b5db21b1b3b222c98",
-      "download_count": 11,
+      "download_count": 44,
       "created_at": "2026-11-21T11:19:19Z",
       "updated_at": "2026-11-21T11:19:28Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-windows-arm64.exe"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 80920821,
       "digest": "sha256:bee83ff472860af33d1cf81a64e6effe34f219d76c7a924df332c8762a938db9",
-      "download_count": 82,
+      "download_count": 253,
       "created_at": "2026-11-21T11:19:20Z",
       "updated_at": "2026-11-21T11:19:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-windows-arm64.zip"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 261231224,
       "digest": "sha256:b3ee11b9e33e22e982070bfbbbd31c31dada01b8f9f01dbe3566b80170e961a4",
-      "download_count": 28,
+      "download_count": 67,
       "created_at": "2026-11-21T11:19:21Z",
       "updated_at": "2026-11-21T11:19:30Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-windows-x64.exe"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 88757349,
       "digest": "sha256:706fecc47fba7e4da63f59dccd3262502c59e4699035548f1113df95fcfca96e",
-      "download_count": 1572,
+      "download_count": 5685,
       "created_at": "2026-11-21T11:19:21Z",
       "updated_at": "2026-11-21T11:19:25Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise-v2026.11.12-windows-x64.zip"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 5590,
       "digest": "sha256:35defa48be0cfbdf15d756319a97a59cbbfed43029397f5a10ab4272daad7ecc",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-11-21T11:23:56Z",
       "updated_at": "2026-11-21T11:23:56Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise.bash"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 3435,
       "digest": "sha256:6ce5a37ef20997b45566abe1fedd98f06b370e3cd8b3ec5e039a51ced22e9c08",
-      "download_count": 55,
+      "download_count": 186,
       "created_at": "2026-11-21T11:23:56Z",
       "updated_at": "2026-11-21T11:23:56Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise.fish"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 4618,
       "digest": "sha256:8901a0c4f205a958f61483d8e3f0877643632c3c5928fc404abb7323028aea93",
-      "download_count": 55,
+      "download_count": 185,
       "created_at": "2026-11-21T11:23:56Z",
       "updated_at": "2026-11-21T11:23:56Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise.powershell"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 512182,
       "digest": "sha256:bdb1cd282712f81014f1a52b204df5a3a496ffe46d8906a0e60df9ce37976673",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-21T11:23:56Z",
       "updated_at": "2026-11-21T11:23:56Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise.usage.kdl"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 5838,
       "digest": "sha256:00409228e124a9f64996b21e4c958dfb9dc71a952326361cf70a67bbd59f9c89",
-      "download_count": 9,
+      "download_count": 14,
       "created_at": "2026-11-21T11:23:56Z",
       "updated_at": "2026-11-21T11:23:56Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/mise.zsh"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 41052,
       "digest": "sha256:fed77b860d80286e8cb6032e1204ce1fc04c8baf218a42a5d2aeb6fecdec9050",
-      "download_count": 2346,
+      "download_count": 29192,
       "created_at": "2026-11-21T11:25:23Z",
       "updated_at": "2026-11-21T11:25:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/packslip.sigstore.json"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 4606,
       "digest": "sha256:7e1b1e137139ea0b153edce07e65accb08354dcef6f27ee29241faa373f1e49d",
-      "download_count": 902,
+      "download_count": 2550,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS256.asc"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 3724,
       "digest": "sha256:0b9e20a67c2beeac3fa0f97f5b67d5603c2d17ff88b08dbdc9c4066fb5d49331",
-      "download_count": 13918,
+      "download_count": 42795,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS256.txt"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 309,
       "digest": "sha256:77756b94b8c01e97f4e8613408d72469c02e44c18042a6d17ddae44a0447c0bb",
-      "download_count": 13113,
+      "download_count": 41091,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS256.txt.minisig"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 7057,
       "digest": "sha256:d305aa4eeb4266209cabdb01933e8ff84b0360a731ab7f4818a3bd5f2d3c6bed",
-      "download_count": 13,
+      "download_count": 21,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS512.asc"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 6175,
       "digest": "sha256:a8acd76ed0abc487ec66ef657971eda09affda59ad502b9584e566a4b619900b",
-      "download_count": 20,
+      "download_count": 72,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS512.txt"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 309,
       "digest": "sha256:0179624bbe702b593a6afd0af87e40ef9929aed62c1231122fa7acf5f3c60cfd",
-      "download_count": 18,
+      "download_count": 70,
       "created_at": "2026-11-21T11:18:57Z",
       "updated_at": "2026-11-21T11:18:57Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/SHASUMS512.txt.minisig"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": "sha256:eb75d49f35536d3563756af226db9ab1f64df0cdfa084eed189b78079a384966",
-      "download_count": 19,
+      "download_count": 28,
       "created_at": "2026-11-21T11:19:23Z",
       "updated_at": "2026-11-21T11:19:23Z",
       "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.11.12/v2026.11.12.tar.gz.sig"
