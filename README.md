@@ -33,27 +33,27 @@ Total: **804,392** lines of code across **3902** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2026.11.14` (2026-11-24)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 36,496 · **Forks**: 1,554 · **Open issues**: 2,013 · **Contributors**: 1,083
+- **Stars**: 36,533 · **Forks**: 1,556 · **Open issues**: 2,018 · **Contributors**: 1,083
 
 ## Totals (cumulative)
 
-- **Releases**: 683 · **Merged PRs**: 9248 · **Open PRs**: 38 · **Closed issues**: 2002 · **Open issues**: 11 · **Commits**: 10922
+- **Releases**: 683 · **Merged PRs**: 9249 · **Open PRs**: 38 · **Closed issues**: 2002 · **Open issues**: 16 · **Commits**: 10923
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 44 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 61 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 44 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 61 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:28:41Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:54Z._
