@@ -38,22 +38,22 @@ Total: **804,392** lines of code across **3902** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,533 · **Forks**: 1,556 · **Open issues**: 2,018 · **Contributors**: 1,083
+- **Stars**: 36,562 · **Forks**: 1,557 · **Open issues**: 2,021 · **Contributors**: 1,083
 
 ## Totals (cumulative)
 
-- **Releases**: 683 · **Merged PRs**: 9249 · **Open PRs**: 38 · **Closed issues**: 2002 · **Open issues**: 16 · **Commits**: 10923
+- **Releases**: 683 · **Merged PRs**: 9249 · **Open PRs**: 38 · **Closed issues**: 2002 · **Open issues**: 19 · **Commits**: 10923
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 44 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 61 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 61 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -124,4 +124,4 @@ Install metadata for rtx lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:54Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:13:05Z._
